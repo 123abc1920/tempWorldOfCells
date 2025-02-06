@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.svg" alt="Мир Клеток">
+  <img src="logo.png" alt="Мир Клеток">
 </div>
 
 ## Ссылка на apk
