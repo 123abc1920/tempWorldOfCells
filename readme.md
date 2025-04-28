@@ -4,7 +4,7 @@
 
 ## Ссылка на apk
 
-https://github.com/123abc1920/tempWorldOfCells/releases/tag/0.0.4
+https://github.com/123abc1920/tempWorldOfCells/releases/tag/0.0.5
 
 ## Видео
 
